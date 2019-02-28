@@ -23,6 +23,14 @@
           }
         },
         {
+          "client_id": "811780479476-3nh323r8514litfak60iveeaabrpc7m0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.edu10.pruebafirebase",
+            "certificate_hash": "d512b59ce17983e3928e60a424d19eed3391118c"
+          }
+        },
+        {
           "client_id": "811780479476-lae2snk2rd6anupibe9i0gq67srf2in1.apps.googleusercontent.com",
           "client_type": 3
         }
